@@ -1,0 +1,9 @@
+.notFound h1{
+    color: red;
+    font-weight: 600;
+}
+
+.notFound p{
+    color: red;
+    font-weight: 500;
+}
